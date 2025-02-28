@@ -15,12 +15,19 @@
 //si no existe el folder se crea
 
 app/Http/Controllers/WarrantyController
+
 app/Models/Warranty.php
+
 database/migrations/2025_02_28_000000_create_warranties_table.php
+
 resources/views/layouts/app.blade.php
+
 resource/views/warranties/create.blade.php
+
 resource/views/warranties/edit.blade.php
+
 resource/views/warranties/index.blade.php
+
 resource/views/warranties/show.blade.php
 
 routes/web.php
